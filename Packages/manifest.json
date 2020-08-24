@@ -5,9 +5,9 @@
     "com.unity.cinemachine": "2.5.0",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
-    "com.unity.ide.vscode": "1.1.4",
+    "com.unity.ide.vscode": "1.2.1",
     "com.unity.probuilder": "4.2.3",
-    "com.unity.test-framework": "1.1.11",
+    "com.unity.test-framework": "1.1.16",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.12",
     "com.unity.ugui": "1.0.0",
@@ -43,19 +43,5 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
-  },
-  "lock": {
-    "com.modesttree.zenject": {
-      "revision": "upm",
-      "hash": "de07abe90babdb1ff7f3945652890dcd3493edf9"
-    },
-    "com.reststorm.runner": {
-      "revision": "HEAD",
-      "hash": "578967d6b7c638026b8d5ee292fc53ab11b953af"
-    },
-    "net.yasirkula.unitybeziersolution": {
-      "revision": "upm",
-      "hash": "1d0b7d6a4f649a94024ce35baac8e5b243ab3e42"
-    }
   }
 }
